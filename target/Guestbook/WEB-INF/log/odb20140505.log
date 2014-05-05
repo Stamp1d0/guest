@@ -1,0 +1,44 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2014-05-05 14:56:55 #1 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is opened by 728@Alifant-pc
+
+[2014-05-05 14:56:56 #2 type] 
+Type guest.Guest is not enhanced.
+
+[2014-05-05 15:06:16 #3 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is closed by 728@Alifant-pc
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2014-05-05 15:28:57 #1 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is opened by 3088@Alifant-pc
+
+[2014-05-05 15:28:57 #2 type] 
+Type guest.Guest is not enhanced.
+
+[2014-05-05 15:29:36 #3 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is closed by 3088@Alifant-pc
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2014-05-05 15:30:10 #1 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is opened by 2816@Alifant-pc
+
+[2014-05-05 15:30:10 #2 type] 
+Type guest.Guest is not enhanced.
+
+[2014-05-05 15:30:53 #3 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is closed by 2816@Alifant-pc
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2014-05-05 15:33:43 #1 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is opened by 6780@Alifant-pc
+
+[2014-05-05 15:33:43 #2 type] 
+Type guest.Guest is not enhanced.
+
+[2014-05-05 15:35:36 #3 store] 
+Database 'D:\Work\IntelliJ Idea\guestbook-spring2\target\Guestbook\WEB-INF\db\guests.odb' is closed by 6780@Alifant-pc
+
